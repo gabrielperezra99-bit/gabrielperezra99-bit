@@ -32,6 +32,11 @@
 ## 📬 ¿Quieres hablar?
 
 - 📧 [gabrielperezra99@gmail.com](mailto:gabrielperezra99@gmail.com)
+- <a href="https://www.linkedin.com/in/gabriel-pérez-645559344" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle;">
+  Conéctate conmigo en LinkedIn
+</a>
+
 - 🐙 Aquí puedes ver mis proyectos
 
 ---
