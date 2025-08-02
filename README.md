@@ -1,7 +1,6 @@
-# 👋 ¡Hola! Soy Watong
+# 👋 ¡Hola! Soy Gabriel Pérez
 
-🎯 Desarrollador web enfocado en crear soluciones tecnológicas modernas, funcionales y atractivas.  
-Me apasiona construir productos que resuelven problemas reales, con buen diseño y código limpio.
+🎯 Desarrollador web apasionado por la tecnología, el diseño funcional y las soluciones que realmente aportan valor. Trabajo en una empresa durante las mañanas, y en mis tiempos libres ofrezco servicios de desarrollo para quienes buscan calidad, dedicación y resultados reales.
 
 ---
 
@@ -15,25 +14,26 @@ Me apasiona construir productos que resuelven problemas reales, con buen diseño
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Algunos datos sobre mí
+## 🚀 Un poco más sobre mí
 
-- 🔧 Trabajo en proyectos freelance de desarrollo y diseño web
-- 🧠 Aprendiendo constantemente nuevas tecnologías y herramientas
-- 🌐 Próximamente: mi portafolio en línea
+- 👨‍💻 Trabajo como desarrollador en una empresa por las mañanas
+- 🌙 En mis tiempos libres, desarrollo proyectos para clientes
+- 📦 Experiencia real en proyectos web funcionales y mantenibles
+- 🌐 Mi portafolio en línea está aquí mismo: en **GitHub**
 
 ---
 
 ## 📬 ¿Quieres hablar?
 
-- 📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 🌐 [Tu página web](https://tudominio.com)
-- 🐙 ¡Mira mis proyectos arriba! 👆
+- 📧 [gabrielperezra99@gmail.com](mailto:gabrielperezra99@gmail.com)
+- 🐙 Aquí puedes ver mis proyectos
 
 ---
 
-> *"El mejor código es el que no parece magia, pero funciona como tal."*
+> *"El código bien hecho no solo funciona. Se entiende, se mantiene, y evoluciona."*
