@@ -45,5 +45,5 @@ Ideal para servicios técnicos: permite registrar, asignar, dar seguimiento y ce
 
 ---
 
-> _"Creo soluciones que funcionan, se ven bien y no rompen el viernes a las 5 PM."_ 😅
+> _“El código no es solo una herramienta, es una forma de construir el futuro con lógica, café y un toque de creatividad.”_ ☕
 
