@@ -1,10 +1,16 @@
-# 👋 ¡Hola! Somos KodeonGG
+# 👋 ¡Hola! Soy Gabriel Pérez
 
-🎯 Desarrolladores web apasionados por la tecnología, el diseño funcional y las soluciones que realmente aportan valor. Ofrecemos servicios de desarrollo para quienes buscan calidad, dedicación y resultados reales.
+🎯 Desarrollador web full stack con pasión por crear soluciones digitales funcionales, escalables y que realmente aporten valor. Me dedico a construir sistemas que hacen la vida más fácil a personas, empresas y estudiantes.
 
 ---
 
-## 🛠️ Stack de tecnologías
+## 🧠 Sobre mí
+
+Tengo experiencia diseñando y desarrollando herramientas web personalizadas, enfocadas en resolver necesidades reales. Desde la educación hasta el comercio, mi enfoque siempre combina tecnología, usabilidad y eficiencia.
+
+---
+
+## 🛠️ Tecnologías que uso
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,7 +24,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
+
+## 🚀 Proyectos destacados
+
+🧠 **Sistema tipo Quiz educativo**  
+Plataforma interactiva para estudiantes, con autoevaluaciones y feedback instantáneo. Ideal para reforzar el aprendizaje de manera dinámica.
+
+📎 **Generador de Códigos QR para archivos**  
+Sistema que convierte cualquier documento en un QR escaneable para facilitar el acceso y distribución.
+
+🛒 **Carrito de Compras**  
+Frontend y backend para un sistema de e-commerce básico, funcional y listo para escalar.
+
+📦 **Sistema de Inventario**  
+Aplicación web para gestionar productos, entradas y salidas, con panel administrativo completo.
+
+🛠️ **Sistema de Órdenes de Trabajo con Seguimiento**  
+Ideal para servicios técnicos: permite registrar, asignar, dar seguimiento y cerrar órdenes de forma ordenada y visual.
 
 ---
 
-> *"Transformamos ideas en soluciones digitales."*
+> _"Creo soluciones que funcionan, se ven bien y no rompen el viernes a las 5 PM."_ 😅
+
