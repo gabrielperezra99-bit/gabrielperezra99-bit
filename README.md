@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Gabriel Pérez
+# 👋 ¡Hola! Somos KodeonGG
 
-🎯 Desarrollador web apasionado por la tecnología, el diseño funcional y las soluciones que realmente aportan valor. Trabajo en una empresa durante las mañanas, y en mis tiempos libres ofrezco servicios de desarrollo para quienes buscan calidad, dedicación y resultados reales.
+🎯 Desarrolladores web apasionados por la tecnología, el diseño funcional y las soluciones que realmente aportan valor. Ofrecemos servicios de desarrollo para quienes buscan calidad, dedicación y resultados reales.
 
 ---
 
@@ -18,15 +18,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Un poco más sobre mí
-
-- 👨‍💻 Trabajo como desarrollador en una empresa por las mañanas
-- 🌙 En mis tiempos libres, desarrollo proyectos para clientes
-- 📦 Experiencia real en proyectos web funcionales y mantenibles
-- 🌐 Mi portafolio en línea está aquí mismo: en **GitHub**
 
 ---
 
-> *"El código bien hecho no solo funciona. Se entiende, se mantiene, y evoluciona."*
+> *"Transformamos ideas en soluciones digitales."*
